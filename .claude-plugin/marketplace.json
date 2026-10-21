@@ -1,0 +1,16 @@
+{
+  "name": "senior-scout-360-marketplace",
+  "owner": {
+    "name": "Bruno Lima"
+  },
+  "metadata": {
+    "description": "Catálogo privado do plugin Senior Scout 360."
+  },
+  "plugins": [
+    {
+      "name": "senior-scout-360",
+      "source": "./",
+      "description": "Inteligencia comercial B2B multissetorial baseada em evidencias, com verificacao documental de produtos Senior quando pertinente."
+    }
+  ]
+}

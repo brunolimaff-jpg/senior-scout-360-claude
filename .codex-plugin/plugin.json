@@ -1,0 +1,42 @@
+{
+  "interface": {
+    "displayName": "Senior Scout 360",
+    "shortDescription": "Inteligencia comercial B2B",
+    "longDescription": "Investiga empresas e oportunidades B2B de diferentes setores, organiza evidencias, mapeia processos, tecnologia, pessoas e riscos e recomenda a proxima validacao comercial. Quando a conversa exigir fatos sobre produtos da Senior, utiliza a Documentacao Senior se disponivel ou consulta fontes oficiais sem presumir capacidade, integracao ou licenca. Nao aplica Score PORTA nem depende de RAG.",
+    "developerName": "Bruno Lima",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "brandColor": "#047857",
+    "defaultPrompt": [
+      "Pesquise uma empresa e prepare uma leitura comercial completa.",
+      "Analise estes materiais e revise a oportunidade.",
+      "Compile tudo desta conta para o fechamento do trimestre."
+    ],
+    "brandColorDark": "#10B981",
+    "logo": "./assets/senior-simbolo-box-verde.png",
+    "composerIcon": "./assets/senior-simbolo-box-verde.png"
+  },
+  "name": "senior-scout-360",
+  "version": "0.2.3",
+  "description": "Inteligencia comercial B2B multissetorial baseada em evidencias, com verificacao documental de produtos Senior quando pertinente.",
+  "author": {
+    "name": "Bruno Lima"
+  },
+  "keywords": [
+    "Senior Sistemas",
+    "inteligencia comercial",
+    "B2B",
+    "pesquisa de contas",
+    "reunioes",
+    "oportunidades",
+    "dossie executivo",
+    "evidencias",
+    "vendas consultivas",
+    "tecnologia",
+    "processos",
+    "documentacao senior"
+  ],
+  "skills": "./skills"
+}

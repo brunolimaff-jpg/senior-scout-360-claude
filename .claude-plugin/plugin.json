@@ -1,0 +1,23 @@
+{
+  "name": "senior-scout-360",
+  "version": "0.2.3",
+  "description": "Inteligencia comercial B2B multissetorial baseada em evidencias, com verificacao documental de produtos Senior quando pertinente.",
+  "author": {
+    "name": "Bruno Lima"
+  },
+  "keywords": [
+    "Senior Sistemas",
+    "inteligencia comercial",
+    "B2B",
+    "pesquisa de contas",
+    "reunioes",
+    "oportunidades",
+    "dossie executivo",
+    "evidencias",
+    "vendas consultivas",
+    "tecnologia",
+    "processos",
+    "documentacao senior"
+  ],
+  "icon": "./assets/senior-simbolo-box-verde.png"
+}
