@@ -27,14 +27,8 @@ As regras comuns ficam em `references/`: contrato de evidencias, roteamento, uso
 
 ## Instalação no Claude Code
 
-Repositório privado: https://github.com/brunolimaff-jpg/senior-scout-360-claude.
-Quem instalar precisa ter acesso de leitura ao repositório e autenticação GitHub configurada para clonar repositórios privados. Os logotipos da Senior não devem ser redistribuídos publicamente.
-
-No terminal, confira o acesso antes de instalar:
-
-```bash
-git ls-remote https://github.com/brunolimaff-jpg/senior-scout-360-claude.git
-```
+Repositório público: https://github.com/brunolimaff-jpg/senior-scout-360-claude.
+Qualquer pessoa pode instalar com o comando abaixo, sem convite e sem autenticação no GitHub. É necessário ter Git e Claude Code instalados. O uso do Claude Code continua sujeito à autenticação e ao plano exigidos pela plataforma.
 
 No Claude Code 2.1.275 ou mais novo, execute na conversa do Claude Code:
 
